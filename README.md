@@ -57,7 +57,7 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 ## 联系人（负责人）
 
 - EunoiaCody — [euoiacody@gmail.com](mailto:euoiacody@gmail.com)
-- Miboboo — [xiaoluobo58@gmail.com](mailto:xiaoluobo58@gmail.com)
+- Misaka Milobo — [xiaoluobo58@gmail.com](mailto:xiaoluobo58@gmail.com)
 - Listen — [listen66@outlook.com](mailto:listen66@outlook.com)
 
 ## 对外渠道

@@ -29,18 +29,16 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 
 ## 仓库结构（示例）
 
-- `docs/` — 技术文档、教程、会议纪要
+- `docs/` — 技术文档、教程
 - `projects/` — 社团或成员项目代码
 - `workshops/` — 工作坊讲义与练习
-- `meetings/` — 例会资料、PPT 与记录
 - `assets/` — 徽标、海报、二维码等静态资源（示例：`icon-of-LTA.jpg`, `KT.png`, `海报.png`）
-- `scripts/` — 常用脚本与自动化工具
 
 ## 快速开始
 
 1. 克隆仓库：
 
-   git clone <仓库地址>
+   git clone <https://github.com/EunoiaCody/LTA-repo.git>
 
 2. 新建分支并提交：
 

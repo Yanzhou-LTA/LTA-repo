@@ -27,7 +27,7 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 - 小型黑客松与协作项目
 - 技术读书会与论文/工具讨论
 
-## 仓库结构（示例）
+## 仓库结构
 
 - `docs/` — 技术文档、教程
 - `projects/` — 社团或成员项目代码

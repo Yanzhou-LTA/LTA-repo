@@ -66,7 +66,7 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 
 - 示例海报：`assets/海报.png`
 
-- 社长Milobo的博客：https://www.milobo.cn
+- 社长Milobo的博客：<https://www.milobo.cn>
 
 ## 贡献指南（简要）
 
@@ -81,7 +81,7 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 
 ## 许可证
 
-本仓库采用 MIT 许可证。详情请见 `LICENSE` 文件。
+本仓库采用 AGPL 许可证。详情请见 `LICENSE` 文件。
 
 ## 行为准则
 

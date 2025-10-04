@@ -62,7 +62,7 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 
 ## 对外渠道
 
-- GitHub 仓库：`EunoiaCody/LTA-repo`
+- GitHub 仓库：`Yanzhou-LTA/LTA-repo`
 
 - 示例海报：`assets/海报.png`
 

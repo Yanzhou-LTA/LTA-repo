@@ -1,11 +1,10 @@
-
 <table style="border-collapse: collapse; border: none; background: transparent;">
    <tr>
       <td style="vertical-align: middle; border: none; padding: 0 12px 0 0;">
          <h1 style="margin: 0;">LTA — Linux and Technology Association</h1>
       </td>
       <td style="vertical-align: middle; text-align: right; border: none; padding: 0;">
-         <img src="assets/icon-of-LTA.jpg" alt="LTA 徽标" width="120" style="display: block; border: none;" />
+         <img src="assets/lta_icon_blue.png" alt="LTA 徽标" width="120" style="display: block; border: none;" />
       </td>
    </tr>
 </table>
@@ -66,7 +65,7 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 
 - 示例海报：`assets/海报.png`
 
-- 社长Milobo的博客：<https://www.milobo.cn>
+- 社长 Milobo 的博客：<https://www.milobo.cn>
 
 ## 贡献指南（简要）
 

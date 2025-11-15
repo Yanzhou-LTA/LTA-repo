@@ -4,7 +4,7 @@
          <h1 style="margin: 0;">Linux与计算机技术研究会 基本会规</h1>
       </td>
       <td style="vertical-align: middle; text-align: right; border: none; padding: 0;">
-         <img src="../assets/lta_icon_blue.png" alt="LTA 徽标" width="120" style="display: block; border: none;" />
+         <img src="./assets/lta_icon_blue.png" alt="LTA 徽标" width="120" style="display: block; border: none;" />
       </td>
    </tr>
 </table>

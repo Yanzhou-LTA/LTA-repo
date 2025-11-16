@@ -35,7 +35,7 @@ Linux and Technology Association
 
 ---
 layout: image-right
-image: ./little-penguin.png
+image: /little-penguin.png
 class: little-penguin
 ---
 
@@ -51,7 +51,7 @@ class: little-penguin
 <br>
 
 
-<img class="mx-auto" width=200px src="./lta_icon_blue.png" />
+<img class="mx-auto" width=200px src="/lta_icon_blue.png" />
 
 ---
 

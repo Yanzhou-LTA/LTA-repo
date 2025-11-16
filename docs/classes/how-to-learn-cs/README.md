@@ -1,11 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 欢迎使用 [Slidev](https://github.com/slidevjs/slidev)!
 
-To start the slide show:
+要开始幻灯片放映:
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+- 安装 `npm`
+- `npm install`
+- `npm run dev`
+- 访问 <http://localhost:3030>

@@ -37,14 +37,14 @@ LTA（Linux and Technology Association）是校内的技术社团，致力于在
 
 1. 克隆仓库：
 
-   git clone <https://github.com/EunoiaCody/LTA-repo.git>
+  `git clone https://github.com/EunoiaCody/LTA-repo.git`
 
 2. 新建分支并提交：
 
-   git checkout -b feat/<简短描述>
-   git add .
-   git commit -m "描述你的变更"
-   git push -u origin HEAD
+  `git checkout -b feat/<简短描述>`
+  `git add .`
+  `git commit -m "描述你的变更"`
+  `git push -u origin HEAD`
 
 3. 发起 Pull Request，等待 review 并合并。
 

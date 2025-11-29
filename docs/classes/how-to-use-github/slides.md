@@ -1,5 +1,5 @@
 ---
-theme: seriph
+theme: dracula
 background: https://cover.sli.dev
 class: text-center
 highlighter: shiki
@@ -19,7 +19,7 @@ LTA 社团课程
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    开始探索 <carbon:arrow-right class="inline"/>
+    START <carbon:arrow-right class="inline"/>
   </span>
 </div>
 

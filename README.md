@@ -29,7 +29,7 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 ## 仓库结构
 
 - `docs/` — 技术文档、教程
-- `projects/` — 社团或成员项目代码
+- `projects/` — 团队或成员项目代码
 - `workshops/` — 工作坊讲义与练习
 - `assets/` — 徽标、海报、二维码等静态资源（示例：`icon-of-LTA.jpg`, `KT.png`, `海报.png`）
 
@@ -50,8 +50,7 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 
 ## 活动时间与地点
 
-- 活动时间：社团不常召开全体大会；通常在学校日的“放学后到晚修开始前”自由组织活动，成员可随时发起或加入。
-- 活动地点：暂不公布
+-由于LTA组织架构变动，现在不设置具体活动时间与地点
 
 ## 联系人（负责人）
 
@@ -61,7 +60,7 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 
 ## 对外渠道
 
-- GitHub 仓库：`Yanzhou-LTA/LTA-repo`
+- GitHub 仓库：`ZS-LTA/LTA-repo`
 
 - 示例海报：`assets/海报.png`
 
